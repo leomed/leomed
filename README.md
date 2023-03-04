@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with mongoose.
 <br>
 <br>
--  ⚡ Fun fact: I'm a future social worker.
+
 <hr >
 
 <p font-size = "20px" > Stevie Ray Vaughan, best guitarist of all times</p>
