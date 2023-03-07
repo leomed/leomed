@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img   src="https://user-images.githubusercontent.com/68408484/223543582-4cb4d155-dc10-4f8e-8887-ac0daa78a1b2.png">
 
-<img src="[123](https://user-images.githubusercontent.com/68408484/223534255-2b245e6d-0764-4f2b-b954-51d21e89f8fb.png)">
+
+
+
 <h2>👋 Welcome! - I'm Leopoldo a future Web Developer from 🇦🇷   </h2>
 - 🌱 I have no experience working as a developer, but it is an ambition that i want to fulfil.
 <br>!
@@ -27,7 +30,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with mongoose.
 <br>
 <br>
-![gitpro](https://user-images.githubusercontent.com/68408484/223542002-51064473-b24a-4af8-9171-326d3c07a8f1.png)
+
 
 
 
