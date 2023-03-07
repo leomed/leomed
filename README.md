@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img src="[leopoldocvit.pdf](https://github.com/leomed/leomed/files/10913366/leopoldocvit.pdf)
+">
 <h2>👋 Welcome! - I'm Leopoldo a future Web Developer from 🇦🇷   </h2>
 - 🌱 I have no experience working as a developer, but it is an ambition that i want to fulfil.
 <br>
