@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/leomed/leomed/files/10913366/leopoldocvit.pdf">
+<img src="[123](https://user-images.githubusercontent.com/68408484/223534255-2b245e6d-0764-4f2b-b954-51d21e89f8fb.png)">
 <h2>👋 Welcome! - I'm Leopoldo a future Web Developer from 🇦🇷   </h2>
 - 🌱 I have no experience working as a developer, but it is an ambition that i want to fulfil.
-<br>
+<br>!
+
 <br>
 - 🔭 I’m currently working on a blog website with node js and mongoDB.
  <br>
