@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p font-size = "20px" > Stevie Ray Vaughan, best guitarist of all times</p>
 
 <p align="left"></p>
-<a href='https://postimg.cc/F73rT9TR' target='_blank'><img src='https://i.postimg.cc/F73rT9TR/leopoldocvit.png' border='0' width="1200px" alt='leopoldocvit'/></a>
+<a href='https://postimg.cc/F73rT9TR' target='_blank'><img src='https://i.postimg.cc/F73rT9TR/leopoldocvit.png' border='0' width="500px" heigth="500px" alt='leopoldocvit'/></a>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">    
