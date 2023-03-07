@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="left"></p>
 <img src="[https://postimg.cc/F73rT9TR](https://i.postimg.cc/4NFYNytz/leopoldocvit.png)">
-
+[![leopoldocvit.png](https://i.postimg.cc/4NFYNytz/leopoldocvit.png)](https://postimg.cc/F73rT9TR)
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">    
