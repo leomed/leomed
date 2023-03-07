@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 
 
 <p font-size = "20px" > Stevie Ray Vaughan, best guitarist of all times</p>
-<image src="https://github.com/leomed/leomed/files/10913272/leopoldocvit.pdf"> </image>
-<p align="left"></p>
+https://github.com/leomed/leomed/files/10913272/leopoldocvit.pdf
 
 <h3 align="left">Languages and Tools:</h3>
 
