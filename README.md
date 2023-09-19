@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-My cv : [leopoldocvit.pdf](https://github.com/leomed/leomed/files/10915561/leopoldocvit.pdf)
+
 
 
 
